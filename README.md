@@ -2,6 +2,8 @@
 
 **Authors:** Michal Lüley, Peter Mervart
 
+Detailed explanation with visualizations in jupyter notebook: [Notebook](AgeDetection.ipynb)
+
 ## Overview
 This project aims to predict the age of individuals based on their images using a Convolutional Neural Network (CNN) implemented with TensorFlow. The model leverages a dataset sourced from Kaggle for training and evaluation.
 
